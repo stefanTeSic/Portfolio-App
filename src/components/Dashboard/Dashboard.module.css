@@ -1,0 +1,14 @@
+.main {
+    height: 100%;
+    position: relative;
+}
+
+.firstNumberDiv {
+    display: inline-block;
+    width: 42.5%;
+}
+
+.secondNumberDiv {
+    display: inline-block;
+    width: 42.5%;
+}
